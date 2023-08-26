@@ -654,7 +654,7 @@ margin-top: 54px;
 }
 
 .subscribe{
-background: url(public/images/subscribe.svg), lightgray 50% / cover no-repeat;
+background: url(public/images/Subscribe.svg), lightgray 50% / cover no-repeat;
 display: flex;
 flex-direction: column;
 justify-content: center;
