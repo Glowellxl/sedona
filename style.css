@@ -746,6 +746,8 @@ width: 132px;
 .nav-social{
 margin-left: 70px;
 height: 50px;
+display: flex;
+justify-content: center;
 }
 .nav-social_vk{
 padding: 18px 10px;
